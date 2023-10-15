@@ -1,0 +1,57 @@
+html{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+    line-height: 1.5;
+
+
+}
+
+
+.main-header{
+    box-sizing: border-box;
+    margin: 2em;
+    padding-bottom: 1em;
+    position: relative;
+    max-width: 70%;
+}
+.main-header h1{
+    padding-bottom: 0.5em;
+}
+.main-section{
+    box-sizing: border-box;
+    margin: 2em;
+    padding-bottom: 1em;
+    position: relative;
+    
+    max-width: 70%;
+
+}
+section ul {
+    margin-left: 2em;
+    padding-bottom: 1em;
+    padding-top: 1em;
+
+}
+aside{
+    box-sizing: border-box;
+    position: absolute;
+    top: 50px;
+    right: 30px;
+    
+}
+aside ul{
+    padding: 0.3em;
+}
+
+img{
+    padding-top: 2em;
+    max-width: 70%;
+    height: auto;
+}
+.main-footer{
+    margin: 2em;
+    padding-bottom: 1em;
+}
+.main-footer p {
+    padding-bottom: 0.3em;
+}

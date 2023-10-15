@@ -1,0 +1,23 @@
+
+main{
+    display: inline-block;
+}
+
+
+
+.left , .right,.center{
+   display: inline-block;
+   box-sizing: border-box;
+    border: 1px solid white;
+    background-color: blue;
+    padding: 0.5em;
+    
+
+}
+div:hover{
+background-color: cyan;
+}
+p,h3{
+    color:white;
+}
+

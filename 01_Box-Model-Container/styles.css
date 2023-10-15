@@ -1,0 +1,21 @@
+body{
+    background-color: gray
+}
+
+
+
+p{
+    box-sizing: border-box;
+    color: white;
+    font-weight: bold;
+   
+}
+section{
+    box-sizing: border-box;
+    border: 3px solid white;
+    background-color: blue;
+    border-radius: 15px 50px 15px 50px;
+    padding: 1em;
+    margin: auto;
+    max-width: 500px;
+}

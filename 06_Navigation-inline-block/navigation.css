@@ -1,0 +1,13 @@
+.header-nav li{
+    display: inline-block;
+    text-decoration: none;
+    list-style: none;
+    padding: 0 0.5em;
+
+}
+.header-nav li a{
+    text-decoration: none;
+    color: green;
+    font-size: 1em;
+    font-weight: bold;
+}
